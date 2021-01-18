@@ -8,3 +8,9 @@ The code uses the FastLED driver system and there are links in the source code t
 Control of the light be either be via a web browser or using the Windows Application which has the source code in the RGBLightControllerUW folder. This can be compiled using Visual Studio to run on Windows 10 as a universal application.
 
 More details about this project can be found on my blog at https://www.briandorey.com/post/esp8266-wifi-rgb-led-controller
+
+FASTLED demos licensed under GNU General Public License v3.0
+https://github.com/atuline/FastLED-Demos
+
+Breath code from Marc Miller licensed under MIT License
+https://github.com/marmilicious/FastLED_examples/blob/master/breath_effect_v2.ino
