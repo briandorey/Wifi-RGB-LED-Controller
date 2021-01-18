@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</Source>
+    <SmallTileSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</SmallTileSource>
+    <MediumTileSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</MediumTileSource>
+    <WideTileSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</WideTileSource>
+    <LargeTileSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</LargeTileSource>
+    <AppIconSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</AppIconSource>
+    <SplashScreenSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</SplashScreenSource>
+    <PackageLogoSource>E:\Documents\Visual Studio Projects\RGBLightControllerUW\RGBLightControllerUW\icon.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
